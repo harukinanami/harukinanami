@@ -5,11 +5,13 @@
 
 <div align="center">
   <a href="https://github.com/harukinanami">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=harukinanami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7A7ADB&icon_color=2234AE" />
+    <img src="https://github-readme-stats.vercel.app/api?username=harukinanami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7A7ADB&icon_color=2234AE" height="180" alt="stats graph" />
   </a>
   
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="10" height="0">
+
   <a href="https://github.com/harukinanami">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harukinanami&layout=compact&theme=tokyonight&hide_border=true&title_color=7A7ADB" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harukinanami&layout=compact&theme=tokyonight&hide_border=true&title_color=7A7ADB" height="180" alt="languages graph" />
   </a>
 </div>
 
