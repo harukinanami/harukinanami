@@ -16,18 +16,21 @@
 </div>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### 🛠️ 技术栈
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+	<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+	<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+	<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</div>
+
+<br/>
 
 ### 📈 活跃度图表
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harukinanami&theme=tokyonight)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harukinanami&theme=tokyonight" />
+</div>
